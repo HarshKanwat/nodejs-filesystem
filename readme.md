@@ -5,12 +5,11 @@ This project is a simple Node.js API that allows you to create text files with t
 ## Table of Contents
 
 - Installation
-- Usage
+
 - API Endpoints
-- Testing
+  
 - Deployment
-- Contributing
-- License
+
 
 ## Installation
 
